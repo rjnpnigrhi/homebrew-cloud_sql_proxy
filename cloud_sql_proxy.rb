@@ -1,5 +1,6 @@
 class CloudSqlProxy < Formula
   desc "The Cloud SQL Proxy for GoogleCloudPlatform"
+  version "1.17" 
   homepage "https://github.com/rjnpnigrhi/homebrew-cloud_sql_proxy"
   url "https://dl.google.com/cloudsql/cloud_sql_proxy.darwin.amd64"
   sha256 "cd4f426f779ede8c87f0efd7f47b7fd86f59157192df37a62822dd9ff53e5113"
